@@ -1,4 +1,4 @@
-# Spotify-Popularity-
+# Spotify-Popularity
 Script to pull meta and track-feature data from large Spotify playlist containing popular/impactful songs released over time. 
 
 Idea is to run the script daily and then eventually measure the change in popularity over 2 weeks post-release, and then popularity at one-month post-release.
